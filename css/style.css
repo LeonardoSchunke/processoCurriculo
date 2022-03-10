@@ -1,0 +1,53 @@
+* {
+    background-color: #eef3f5;
+    font-family:monospace;
+    
+}
+
+button {
+    background-color: #df1715;
+    color: #fff;
+    font-size: 4vh;
+    border: none;
+    margin: 5vh;
+}
+
+p {
+    font-size: 3vh;
+    margin: 3vh 3vh 3vh 3vh;
+}
+
+li {
+    font-size: 3vh;
+}
+
+h4, h2 {
+    font-weight: bold;
+    margin-top: 4vh;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+input {
+    margin-bottom: 0.5vh;
+    background-color: #eef3f5;
+    border-width: thin;
+    border-style: ridge;
+    height: 5vh;
+}
+
+.conteudo {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+}
+
+#inputFeedback {
+    height: 7vh;
+}
+
+
